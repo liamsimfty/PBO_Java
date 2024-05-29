@@ -5,7 +5,7 @@ public class Main {
     {
         boolean a = true;
         do {
-            System.out.println("Pilih Operasi\n1. Penjumlahan\n2. Pengurangan\n3. Perkalian\n4. Pembagian\n5. Keluar\n\nPilih Operasi");
+            System.out.println("Pilih Operasi\n1. Pedsadsanjumlahan\n2. Pengurangan\n3. Perkalian\n4. Pembagian\n5. Keluar\n\nPilih Operasi");
             Scanner scanner = new Scanner(System.in);
             int input = scanner.nextInt();
 
